@@ -16,6 +16,6 @@ What we learnt from LMs and hugging face:
 9. Prediction
     
 * First try implementing a pretrained model using a pipeline from hugging face task section.
-* If that does not give good results then try fine tuning (adding more knowledge) on top of pretrained
+* If that does not give good results then try fine tuning (adding more knowledge) on top of pretrained using Parameter Efficient Fine Tuning (PEFT)
 
 Now we will be moving onto understanding LangChain along with vector databases.
