@@ -14,5 +14,8 @@ What we learnt from LMs and hugging face:
 7. Evaluation using required metrics
 8. Saving the model to use on test data
 9. Prediction
+    
+* First try implementing a pretrained model using a pipeline from hugging face task section.
+* If that does not give good results then try fine tuning (adding more knowledge) on top of pretrained
 
 Now we will be moving onto understanding LangChain along with vector databases.
